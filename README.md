@@ -15,13 +15,13 @@
   <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
 
 <h3 align="left"> 🧑‍💻 About Me </h3>
-<h5>🎓  Mahasiswa Teknik Informatika — masih dalam proses belajar & berkembang</h5>
-<h5>🌱  Currently learning — Web Development, Databases & Programming Fundamentals</h5>
-<h5>💡  Suka eksplor teknologi baru dan coba-coba bikin project kecil-kecilan</h5>
-<h5>🔭  Exploring — HTML, CSS, JS, Node.js, React & Database Design</h5>
-<h5>🏡  Based in Konoha</h5>
-<h5>⚡  Fun fact: I debug by talking to my rubber duck 🦆</h5>
-<h5>😄  Still a junior, but always eager to improve!</h5>
+<h5 align="left">🎓  Mahasiswa Teknik Informatika — masih dalam proses belajar & berkembang</h5>
+<h5 align="left">🌱  Currently learning — Web Development, Databases & Programming Fundamentals</h5>
+<h5 align="left">💡  Suka eksplor teknologi baru dan coba-coba bikin project kecil-kecilan</h5>
+<h5 align="left">🔭  Exploring — HTML, CSS, JS, Node.js, React & Database Design</h5>
+<h5 align="left">🏡  Based in Konoha</h5>
+<h5 align="left">⚡  Fun fact: I debug by talking to my rubber duck 🦆</h5>
+<h5 align="left">😄  Still a junior, but always eager to improve!</h5>
 
 <br/><br/>
 
