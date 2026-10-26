@@ -1,36 +1,36 @@
 <div align="center">
-<img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center">
+  <img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center">
 </div>
 
 <div align="center">
-<img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
+  <img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
 </div>
 
+<h1 align="center">
+  Hi 👋, I'm Sanjaya
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
+<h3 align="center">🎓 Informatics Engineering Student | 💻 BackEnd Developer Enthusiast</h3>
 
-<h1 align="center">Hi 👋, I'm Sanjaya</h1>
-<h3 align="center">A passionate BackEnd developer from Konoha</h3>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Informatics+Engineering+Student+%F0%9F%8E%93;BackEnd+Developer+in+Progress+%F0%9F%9A%80;Lifelong+Learner+%F0%9F%93%9A;Turning+Coffee+into+Code+%E2%98%95" alt="Typing SVG" />
 </p>
-<p align="left">
-<a href="https://www.linkedin.com/in/sanjaya-putra-a0a47330a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sanjaya_023" height="30" width="40" /></a>
-<a href="https://www.instagram.com/sanjaya_2k4?igsh=aGM0M3llZTdzemR4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sanjaya_023" height="30" width="40" /></a>
 
-<h3 align="left">Languages and Tools:</h3>
-<img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Sass" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MongoDB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+---
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" width="400"/>
 </div>
+
+---
+
+## 🧑‍💻 About Me
+
+```txt
+🎓  Mahasiswa Teknik Informatika yang sedang berjuang memahami dunia coding
+🌱  Currently learning — Backend Development, Databases & Web Technologies
+💡  Passionate about building clean, efficient, and scalable server-side applications
+🔭  Exploring — Node.js, REST APIs, and Database Design
+🏡  Based in Konoha
+⚡  Fun fact: I debug by talking to my rubber duck 🦆
