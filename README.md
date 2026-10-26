@@ -15,7 +15,7 @@
   <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
 
 ## 🧑‍💻 About Me
-```txt
+<h4 align="left">Backend & Languages
 🎓  Mahasiswa Teknik Informatika — masih dalam proses belajar & berkembang
 🌱  Currently learning — Web Development, Databases & Programming Fundamentals
 💡  Suka eksplor teknologi baru dan coba-coba bikin project kecil-kecilan
@@ -23,7 +23,7 @@
 🏡  Based in Konoha
 ⚡  Fun fact: I debug by talking to my rubber duck 🦆
 😄  Still a junior, but always eager to improve!
-```
+</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -81,7 +81,7 @@
 
 <br/><br/>
 
-<!-- ── Design & Data ── -->
+<h4 align="left">Design & Data</h4>
 <img align="left" alt="Figma" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Jupyter" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="padding-right:10px;" />
