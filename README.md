@@ -14,6 +14,17 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
 
+## 🧑‍💻 About Me
+```txt
+🎓  Mahasiswa Teknik Informatika — masih dalam proses belajar & berkembang
+🌱  Currently learning — Web Development, Databases & Programming Fundamentals
+💡  Suka eksplor teknologi baru dan coba-coba bikin project kecil-kecilan
+🔭  Exploring — HTML, CSS, JS, Node.js, React & Database Design
+🏡  Based in Konoha
+⚡  Fun fact: I debug by talking to my rubber duck 🦆
+😄  Still a junior, but always eager to improve!
+```
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
