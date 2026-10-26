@@ -14,16 +14,16 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
 
-<h1 align="left"> 🧑‍💻 About Me </h1>
-<p>
-🎓  Mahasiswa Teknik Informatika — masih dalam proses belajar & berkembang
-🌱  Currently learning — Web Development, Databases & Programming Fundamentals
-💡  Suka eksplor teknologi baru dan coba-coba bikin project kecil-kecilan
-🔭  Exploring — HTML, CSS, JS, Node.js, React & Database Design
-🏡  Based in Konoha
-⚡  Fun fact: I debug by talking to my rubber duck 🦆
-😄  Still a junior, but always eager to improve!
-</p>
+<h3 align="left"> 🧑‍💻 About Me </h3>
+<h5>🎓  Mahasiswa Teknik Informatika — masih dalam proses belajar & berkembang</h5>
+<h5>🌱  Currently learning — Web Development, Databases & Programming Fundamentals</h5>
+<h5>💡  Suka eksplor teknologi baru dan coba-coba bikin project kecil-kecilan</h5>
+<h5>🔭  Exploring — HTML, CSS, JS, Node.js, React & Database Design</h5>
+<h5>🏡  Based in Konoha</h5>
+<h5>⚡  Fun fact: I debug by talking to my rubber duck 🦆</h5>
+<h5>😄  Still a junior, but always eager to improve!</h5>
+
+<br/><br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,6 +31,8 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/sanjaya-putra-a0a47330a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sanjaya_023" height="30" width="40" /></a>
 <a href="https://www.instagram.com/sanjaya_2k4?igsh=aGM0M3llZTdzemR4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sanjaya_023" height="30" width="40" /></a>
+
+<br/><br/>
 
 <h3 align="left">Languages and Tools:</h3>
 
